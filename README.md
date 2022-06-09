@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ### 💻 LAMP Developer (PHP/Python)
 - My favorite frameworks: `Laravel` `Flask` `Django` `WordPress`
 
-### 🤦‍♂️ Wantrapreneur
-
 ### 🚀 TLDRpreneur
 - I'll explain to you what that is in a bit, stay tuned...
 
