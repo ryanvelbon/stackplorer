@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [foobar](https://foobar.com/)
-- 🌱 I’m currently learning CMS, 
-- 👯 I’m looking to collaborate on startups as a backend developer + SEO.
+
+- 
 - 🤔 I’m looking for help with anything front-end related.
 
 - 📫 How to reach me: ...
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - [headless CMS](https://www.youtube.com/watch?v=NviW5Dr7EaY&t=1406s&ab_channel=FooCafe) (loving Gatsby + headless WordPress)
 - SEO 📈
 - Linux Ubuntu 🐧
+
+### 👯 Open for Collaboration
+Are you a JavaScript dev or Mobile dev who needs a REST API for an app you're building? Hit me up! 💪
 
 ### 💬 Ask me about:
 - REST API architecture (I'm a big fan of [CRUDdy by Design](https://www.youtube.com/watch?v=MF0jFKvS4SI&ab_channel=AdamWathan))
