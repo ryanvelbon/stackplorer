@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 LAMP Developer (PHP/Python)
+- 🤦‍♂️ Wantrapreneur
+- 🚀 TLDRpreneur
+- 🌱 Currently learning:
+  - 🤖 headless CMS
+  - 📈 SEO
+- 🌎 Digital Nomad
+  - 🇪🇸 Barcelona, Spain
+  - 🇮🇩 Bali, Indonesia
+  - 🇹🇷 Istanbul, Turkey 📍
+  - upcoming destinations 2022: 🇲🇾 🇻🇳
