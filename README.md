@@ -37,5 +37,4 @@ Are you a JavaScript dev or Mobile dev who needs a REST API for an app you're bu
 
 ### 👦 More about me...
 - 🌎 digital nomad 🇪🇸 🇮🇩 🇲🇾 🇹🇷
-- 🎸 I used to slap bass
-- 🎧 but now [I make electronic music](https://soundcloud.com/plebiumrex)
+- 🎸 I used to slap bass but now [I make electronic music](https://soundcloud.com/plebiumrex) 🎧
