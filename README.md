@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 LAMP Developer (PHP/Python)
-- My favorite frameworks: `Laravel` `Flask` `Django` `WordPress`
+- Backend frameworks: `Laravel` `Flask` `Django` `WordPress`
+- Frontend frameworks: `Vue` `React`
 
 ### 🚀 TLDRpreneur
 - I'll explain to you what that is in a bit, stay tuned...
@@ -36,5 +37,5 @@ Are you a JavaScript dev or Mobile dev who needs a REST API for an app you're bu
 <!-- ### 🤔 I’m looking for help with -->
 
 ### 👦 More about me...
-- 🌎 digital nomad 🇪🇸 🇮🇩 🇲🇾 🇹🇷
+- 🌎 digital nomad 🇪🇸 🇮🇩 🇲🇾 🇹🇷 🇹🇭
 - 🎸 I used to slap bass but now [I make electronic music](https://soundcloud.com/plebiumrex) 🎧
