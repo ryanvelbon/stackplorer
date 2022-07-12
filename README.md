@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 
-### 💻 LAMP Developer (PHP/Python)
+### 💻 Fullstack Developer
 - Backend frameworks: `Laravel` `Flask` `Django` `WordPress`
 - Frontend frameworks: `Vue` `React`
 
