@@ -1,4 +1,4 @@
-## Hi, I'm Ryan 👋 | Backend Developer from Malta 🇲🇹
+## Hi, I'm Ryan 👋 | Fullstack Developer from Malta 🇲🇹
 
 <!--
 **tldrpreneur/tldrpreneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
