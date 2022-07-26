@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 Fullstack Developer
-- Backend frameworks: `Laravel` `Flask` `Django` `WordPress`
-- Frontend frameworks: `Vue` `React`
+- my current stack: `Linux`, `Apache`, `MySQL`, `Laravel`, `Vue`, `Tailwind`
+- I also enjoy using: `Flask`, `Django`, `WordPress`, `React`, `Bootstrap`
 
 ### 🚀 TLDRpreneur
 - I'll explain to you what that is in a bit, stay tuned...
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ### 🌱 Currently learning:
 - [headless CMS](https://www.youtube.com/watch?v=NviW5Dr7EaY&t=1406s&ab_channel=FooCafe) (loving Gatsby + headless WordPress)
 - SEO 📈
-- Linux Ubuntu 🐧
+- Linux Ubuntu 20.04 🐧
+- Statamic
 
 ### 👯 Open for Collaboration
 Are you a JavaScript dev or Mobile dev who needs a REST API for an app you're building? Hit me up! 💪
