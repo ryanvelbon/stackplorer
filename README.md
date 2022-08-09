@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - my current stack: `Linux`, `Apache`, `MySQL`, `Laravel`, `Vue`, `Tailwind`
 - I also enjoy using: `Flask`, `Django`, `WordPress`, `React`, `Bootstrap`
 
-### 🚀 TLDRpreneur
-- I'll explain to you what that is in a bit, stay tuned...
+<!-- ### 🚀 TLDRpreneur -->
+<!-- - I'll explain to you what that is in a bit, stay tuned... -->
 
 <!-- ### 🔭 I’m currently working on: -->
 <!-- [koolabo](https://koolabo.com/) -->
