@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 Fullstack Developer
-- my current stack: `Linux`, `Apache`, `MySQL`, `Laravel`, `Vue`, `Tailwind`
-- I also enjoy using: `Flask`, `Django`, `WordPress`, `React`, `Bootstrap`
+- my current stack: `Linux`, `Nginx`, `MySQL`, `Laravel`, `Vue`, `Tailwind`
+- I also enjoy using: `Flask`, `Django`, `WordPress`, `React`, `Bootstrap`, `Apache`
 
 <!-- ### 🚀 TLDRpreneur -->
 <!-- - I'll explain to you what that is in a bit, stay tuned... -->
